@@ -1,0 +1,21 @@
+{
+    "overrides": [
+        {
+            "files": "*.js",
+            "options": {
+                "trailingComma": "all"
+            }
+        }
+    ],
+    "printWidth": 90,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "quoteProps": "consistent",
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "requirePragma": false,
+    "insertPragma": false,
+    "endOfLine": "lf"
+}
